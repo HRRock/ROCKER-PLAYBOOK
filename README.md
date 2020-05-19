@@ -69,6 +69,12 @@
              * **[Business Analytics]**
              * **[Strategic Operations]**
       *   [People][people]
+             * **[Business Partners]** 
+             * **[Culture, Diversity & Inclusion]**
+             * **[Facilities]**
+             * **[Learning & Development]**
+             * **[Personal Department]**
+             * **[Talent Acquisition]**
       *   [Product][product]
       *   [Rock.Org][rock.org]
       *   [Sales][sales]
