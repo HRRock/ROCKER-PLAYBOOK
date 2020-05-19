@@ -17,7 +17,7 @@
 [org-chart-&-executives]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#32-org-chart--executives
 [teams]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#33-teams
 [administrative]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#331-administrative
-[finance]:
+[finance]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#332-finance
 [legal]:
 [marketing]:
 [market-place]:
