@@ -4,7 +4,7 @@
 [our-values]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#our-values
 [who-do-we-help]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#who-do-we-help
 [what-problem-do-we-solve]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#what-problems-do-we-solve
-[rock-content-facts]:
+[rock-content-facts]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#rock-content-facts
 [our-products]:
 [ion]:
 [visually]:
@@ -37,7 +37,7 @@
   *   [ 1.3 Our values][our-values]
   *   [ 1.4 Who do we help][who-do-we-help]
   *   [ 1.5 What problem do we solve][what-problem-do-we-solve]
-  *   [ 1.6 Rock Content Fact][rock-content-facts]
+  *   [ 1.6 Rock Content Facts][rock-content-facts]
 * [2.OUR PRODUCTS][our-products]  
   *   [ 2.1 ION][ion]
   *   [ 2.2 Visually][visually]
