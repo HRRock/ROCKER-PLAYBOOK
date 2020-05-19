@@ -67,7 +67,7 @@
 * [4.RESOURCES][resources]
 
 
-## THE COMPANY
+## 1.THE COMPANY
 
 Welcome to our Rocker center!
 
@@ -80,7 +80,7 @@ Here almost every page is fully editable. And you, fellow Rocker, are already an
 
 Here are a few suggestions on pages I think you'd like to start on. If that's not your thing, that's cool! Just hit the search bar and take a look around. Didn't find what you needed? Why not start your own page? Just click here to get started.
 
-   ## Who we are
+   ## 1.1 Who we are
    
 Rock Content is a content marketing company. We are helping other companies to create and introduce a perfect content marketing strategy. Rock Content has been active in the Brazilian market for 6 years. Today the company has more than 1600 customers and 450 employees and is considered the largest content marketing company in Latin America.   
    
@@ -101,13 +101,13 @@ Just as there are many different types of content, our products help with conten
 
 https://pt.slideshare.net/rockcontent/culture-code-rock-content
 
-   ## Our History 
+   ## 1.2 Our History 
    
 The company started operating on May 5, 2013 and was founded by 3 partners: Edmar Ferreira, Diego Gomes, and Vitor Peçanha in Belo Horizonte- BRA, in the so-called San Pedro Valley. It was born with the aim of changing the reality of companies' digital strategies by producing content and devising strategies to generate more online visibility for their customers.
 
 What started as a back-of-the-napkin business idea in 2013 would become the largest content marketing solution and service provider in Latin America. With the acquisition of ScribbleLive, Rock Content is now a global enterprise with over 500 employees, six offices, and 2,000 customers. Together, we all share in Rock’s mission to create growth opportunities for our customers, talent community, and Rockers worldwide.   
 
-   ## Our Values
+   ## 1.3 Our Values
    
 1. Learn: we proactively learn technical and personal skills
 
@@ -177,7 +177,7 @@ Respect is carried out: Understanding that the world is diverse; Not admitting a
 
 I hope you enjoyed this text, which was written with the heart and a few hints of reason. I want your opinion, will you? If so, leave a comment below
 
-   ## Who do we help
+   ## 1.4 Who do we help
    
 Over 1200 Global Brands: both B2B and B2C markets with a sales focus on Enterprise (over $1B USD) and small-medium business (SMB) markets.
 
@@ -187,13 +187,13 @@ Engage - Mostly media organizations for breaking news and sports coverage, with 
 
 Visually - Clients from a variety of industries who need content for marketing campaigns, sales enablement, client training, and more!
 
-   ## What problems do we solve 
+   ## 1.5 What problems do we solve 
    
-   ## Rock Content Facts 
+   ## 1.6 Rock Content Facts 
    https://www.forbes.com/sites/angelicamarideoliveira/2019/12/10/exclusive-brazils-rock-content-acquires-scribble-live/#1f5896d3deda
    
-## OUR PRODUCTS
-   ## ION Interactive 
+## 2.OUR PRODUCTS
+   ## 2.1 ION Interactive 
    
 With ion interactive, our customers create interactive content (landing pages, interactive infographics, assessments, quizzes and more) to drive enticing and relevant online experiences and build revenue.
 
@@ -201,7 +201,7 @@ Every buyer touchpoint is an opportunity for insight and understanding, and ion 
 
 ion interactive empowers organizations to engage, target, and convert higher quality leads using a code-free, data-driven solution.
 
-   ## Visually
+   ## 2.2 Visually
    
 Visually's mission is to help businesses create visual content that rises above the noise.
 Our platform connects designers, journalists, animators and developers with clients. Visually features cloud-based collaboration tools that allow us to deliver high-quality content at unprecedented scale and speed.
@@ -212,3 +212,13 @@ LinkedIn wanted to create a video to communicate the results of a survey and pro
 https://get.visual.ly/m/design-portfolio/job-seeker-trend-report-linkedin/ 
 
 Visually matched LinkedIn to the correct talent. The Visually platform is where all of the collaboration happened. The video is the result.
+
+  ## 2.3 Visually
+  
+  ## 2.4 Live
+  
+  ## 2.3 Studio
+  
+  ## 2.4 iClips
+  
+  ## 2.5 Rock.OS
