@@ -23,7 +23,7 @@
 [market-place]:
 [orgdev]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#336-orgdev
 [people]:
-[resources]:
+[resources]: 
 
 # ROCKER PLAYBOOK 
 
