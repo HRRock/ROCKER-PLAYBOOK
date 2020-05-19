@@ -26,11 +26,11 @@
 [people]:
 [resources]:
 
-# ROCKER-PLAYBOOK !
+# ROCKER PLAYBOOK 
 
 ## Table of Contents
 
-**[1.OUR PURPOSE][our-purpose] 
+## [1.OUR PURPOSE][our-purpose] 
   
   *   [ 1.1 Who we are][who-we-are]
   *   [ 1.2 Our history][our-history]
