@@ -24,7 +24,7 @@
 [market-place]:
 [orgdev]:
 [people]:
-[resources]
+[resources]:
 
 # ROCKER-PLAYBOOK
 
