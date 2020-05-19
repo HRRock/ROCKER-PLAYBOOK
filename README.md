@@ -2,7 +2,7 @@
 [who-we-are]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#who-we-are
 [our-history]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#our-history
 [our-values]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#our-values
-[who-do-we-help]:
+[who-do-we-help]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#who-do-we-help
 [what-problem-do-we-solve]:
 [our-products]:
 [ion]:
@@ -173,4 +173,8 @@ Ion Interactive - Digital teams in multiple verticals, including e-commerce, sal
 Engage - Mostly media organizations for breaking news and sports coverage, with a growing presence in corporate communications and marketing.
 
 Visually - Clients from a variety of industries who need content for marketing campaigns, sales enablement, client training, and more!
+
+   ## What problems do we solve 
+   
+https://api.media.atlassian.com/file/4f64bc14-e561-474f-9127-cd161785d2a7/image?mode=full-fit&client=8f7502cf-2bde-440e-a166-ede77bc7b971&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI4Zjc1MDJjZi0yYmRlLTQ0MGUtYTE2Ni1lZGU3N2JjN2I5NzEiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpmaWxlOjRmNjRiYzE0LWU1NjEtNDc0Zi05MTI3LWNkMTYxNzg1ZDJhNyI6WyJyZWFkIl19LCJleHAiOjE1ODk5MTAyNjMsIm5iZiI6MTU4OTkwNjkwM30.Htd8BZsI_VynSkoNuB8m8r5c4iITzEAtmr__2Smj8ng
 
