@@ -14,7 +14,7 @@
 [rock-.os]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [our-people]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3-our-people
 [meet-the-founders]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#31-meet-the-founders
-[org-chart-&-executives]:
+[org-chart-&-executives]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#32-org-chart--executives
 [teams]:
 [administrative]:
 [finance]:
