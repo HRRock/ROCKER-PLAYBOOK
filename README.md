@@ -35,7 +35,7 @@
   *   [ 1.3 Our Values][our-values]
   *   [ 1.4 Who do we help][who-do-we-help]
   *   [ 1.5 What problem do we solve][what-problem-do-we-solve]
-  *   [1.6 Rock Content Fact][rock-content-facts]
+  *   [ 1.6 Rock Content Fact][rock-content-facts]
 * [2.OUR PRODUCTS][our-products]
   *   [ 2.1 ION][ion]
   *   [ 2.2 Visually][visually]
