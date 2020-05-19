@@ -164,3 +164,13 @@ At Rock, respect is closely linked to the company's philosophy. It is an essenti
 Respect is carried out: Understanding that the world is diverse; Not admitting any kind of prejudice; Setting an example to inspire the people you relate to. So, you inspired? Adopting each of these values ​​in the Rock Culture Code is, first of all, giving a vote of confidence in yourself. With them, surely you will be a professional and a human being much better. Living a life that is worth living. That inspires and leaves traces of homesickness wherever it goes. And finally, never forget that those who give flowers always leave a little perfume in their hands.
 
 I hope you enjoyed this text, which was written with the heart and a few hints of reason. I want your opinion, will you? If so, leave a comment below
+
+   ## Who do we help
+   
+Over 1200 Global Brands: both B2B and B2C markets with a sales focus on Enterprise (over $1B USD) and small-medium business (SMB) markets.
+Ion Interactive - Digital teams in multiple verticals, including e-commerce, sales enablement, and marketing
+
+Engage - Mostly media organizations for breaking news and sports coverage, with a growing presence in corporate communications and marketing.
+
+Visually - Clients from a variety of industries who need content for marketing campaigns, sales enablement, client training, and more!
+
