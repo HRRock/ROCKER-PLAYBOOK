@@ -7,7 +7,7 @@
 [rock-content-facts]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#16-rock-content-facts
 [our-products]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#2our-products
 [ion]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#21-ion-interactive
-[visually]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#visually
+[visually]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#22-visually
 [live]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#23-live
 [studio]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [iclips]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
