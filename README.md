@@ -55,19 +55,19 @@
   *   [ 3.1 Meet the foundres][meet-the-founders]
   *   [ 3.2 Org Chart & Executives][org-chart-&-executives]
   *   [ 3.3 Teams][teams]
-      *   [ 3.3.1 Administrative][administrative]
-      *   [ 3.3.2 Finance][finance]
-      *   [ 3.3.3 Legal][legal]
-      *   [ 3.3.4 Marketing][marketing]
-      *   [ 3.3.5 Market place][market-place]
-      *   [ 3.3.6 OrgDev][orgdev]
-      *   [ 3.3.7 People][people]
-      *   [ 3.3.8 Product][product]
-      *   [ 3.3.9 Rock.Org][rock.org]
-      *   [ 3.3.10 Sales][sales]
-      *   [ 3.3.11 Services][services]
-      *   [ 3.3.12 Support][support]
-      *   [ 3.3.13 Engineering][engineering]      
+      *   [Administrative][administrative]
+      *   [Finance][finance]
+      *   [Legal][legal]
+      *   [Marketing][marketing]
+      *   [Market place][market-place]
+      *   [OrgDev][orgdev]
+      *   [People][people]
+      *   [Product][product]
+      *   [Rock.Org][rock.org]
+      *   [Sales][sales]
+      *   [Services][services]
+      *   [Support][support]
+      *   [Engineering][engineering]      
 
 * [4.RESOURCES][resources]
 
@@ -233,12 +233,12 @@ Visually matched LinkedIn to the correct talent. The Visually platform is where 
    ## 3.2 Org Chart & Executives
    
    ## 3.3 Teams 
-   ## 3.3.1 Administrative
-   ## 3.3.2 Finance 
-   ## 3.3.3 Legal
-   ## 3.3.4 Marketing
-   ## 3.3.5 Market place 
-   ## 3.3.6 OrgDev
+   ## Administrative
+   ## Finance 
+   ## Legal
+   ## Marketing
+   ## Market place 
+   ## OrgDev
    
 OrgDev is a super nice team!
 They support Rock Content through the use of data and analysis.
@@ -296,7 +296,7 @@ Marketing Metrics
    ## 3.3.8 Product
    ## 3.3.9 Rock.Org
    ## 3.3.10 Sales
-[SALES PLAYBOOK]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#sales-playbook
+[sales-playbook]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#sales-playbook
    
    ## 3.3.11 Services
    ## 3.3.12 Support
