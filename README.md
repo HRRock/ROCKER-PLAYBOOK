@@ -11,7 +11,7 @@
 [live]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#23-live
 [studio]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [iclips]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#25-iclips
-[rock-.os]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
+[rock-.os]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#26-rockos
 [our-people]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3-our-people
 [meet-the-founders]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#31-meet-the-founders
 [org-chart-&-executives]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#32-org-chart--executives
