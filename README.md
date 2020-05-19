@@ -10,7 +10,7 @@
 [visually]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#22-visually
 [live]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#23-live
 [studio]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
-[iclips]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
+[iclips]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#25-iclips
 [rock-.os]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [our-people]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3-our-people
 [meet-the-founders]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#31-meet-the-founders
