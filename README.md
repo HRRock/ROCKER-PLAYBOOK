@@ -11,7 +11,7 @@
 [live]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#23-live
 [studio]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [iclips]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
-[rock-.os]:
+[rock-.os]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [our-people]:
 [upfront-fee]:
 [how-to-react-to-an-objection]:
@@ -220,3 +220,5 @@ Visually matched LinkedIn to the correct talent. The Visually platform is where 
   ## 2.5 iClips
   
   ## 2.6 Rock.OS
+
+## 3. OUR PEOPLE
