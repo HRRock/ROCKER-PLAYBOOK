@@ -31,8 +31,8 @@
 ## Table of Contents
 * [1.OUR PURPOSE][our-purpose] 
   *   [ 1.1 Who we are][who-we-are]
-  *   [ 1.2 Our History][our-history]
-  *   [ 1.3 Our Values][our-values]
+  *   [ 1.2 Our history][our-history]
+  *   [ 1.3 Our values][our-values]
   *   [ 1.4 Who do we help][who-do-we-help]
   *   [ 1.5 What problem do we solve][what-problem-do-we-solve]
   *   [ 1.6 Rock Content Fact][rock-content-facts]
