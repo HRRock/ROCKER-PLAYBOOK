@@ -28,7 +28,7 @@
 [sales]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3310-sales
 [services]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3311-services
 [support]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3312-support
-[engineering]:
+[engineering]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3310-sales
 [resources]: 
 
 # ROCKER PLAYBOOK 
@@ -246,3 +246,4 @@ Visually matched LinkedIn to the correct talent. The Visually platform is where 
    ## 3.3.12 Support
    ## 3.3.13 Engineering
       
+## RESOURCES
