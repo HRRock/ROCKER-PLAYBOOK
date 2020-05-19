@@ -1,4 +1,4 @@
-[the-company]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#our-purpose
+[the-company]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#1the-company
 [who-we-are]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#who-we-are
 [our-history]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#our-history
 [our-values]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#our-values
