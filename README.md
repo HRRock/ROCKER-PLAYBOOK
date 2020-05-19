@@ -6,7 +6,7 @@
 [what-problem-do-we-solve]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#what-problems-do-we-solve
 [rock-content-facts]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#rock-content-facts
 [our-products]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#our-products
-[ion]:
+[ion]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#ion-interactive
 [visually]:
 [live]:
 [studio]:
