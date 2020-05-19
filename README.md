@@ -296,7 +296,7 @@ Marketing Metrics
    ## 3.3.8 Product
    ## 3.3.9 Rock.Org
    ## 3.3.10 Sales
-**SALES PLAYBOOK - https://github.com/HRRock/Sales-playbook/blob/master/README.md#sales-playbook**
+[SALES PLAYBOOK]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#sales-playbook
    
    ## 3.3.11 Services
    ## 3.3.12 Support
