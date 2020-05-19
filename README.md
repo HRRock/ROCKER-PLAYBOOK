@@ -2,7 +2,7 @@
 [who-we-are]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#11-who-we-are
 [our-history]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#12-our-history
 [our-values]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#13-our-values
-[who-do-we-help]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#who-do-we-help
+[who-do-we-help]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#14-who-do-we-help
 [what-problem-do-we-solve]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#15-what-problems-do-we-solve
 [rock-content-facts]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#rock-content-facts
 [our-products]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#our-products
