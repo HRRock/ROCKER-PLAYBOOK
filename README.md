@@ -241,17 +241,12 @@ Visually matched LinkedIn to the correct talent. The Visually platform is where 
    ## 3.3.6 OrgDev
    
 OrgDev is a super nice team!
-
 They support Rock Content through the use of data and analysis.
-
 A small part of the work is maintaining our databases clean, usable and true to the facts. Whenever something gets changed in the database, we document it in some easy to follow documents.
-
 The table plan_histories, in RC1, is documented in HammerTime.
-
 Since Fabiano is currently messing around with the teams and moderator_teams, we do have a separate document for them as well: CS teams at RC1.
 
 Right now, OrgDev is trying to keep sharp focus on 2020. There is a list of priorities for the team in 2020 already out.
-
 Contents
 1	OrgDev Mission
 2	OrgDev Routines
@@ -270,8 +265,8 @@ Data Literacy
 Data Decisions
 OrgDev Routines
 
-As rotinas de OrgDev são super divertidas: 
-Cerimônias
+OrgDev routine rituals are super funny
+Rituals:
 Reuniões de frequência, duração, objetivos e formato definidos, adequadas à metodologia agile.
 
 Home office: Formalizar lembrete de reuniões com 5min. Quem estiver de home office deve enviar uma mensagem na sala #dataRocks 5min antes do início das reuniões para lembrar que irá participar via Hangout.
