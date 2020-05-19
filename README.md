@@ -9,7 +9,7 @@
 [ion]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#ion-interactive
 [visually]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#visually
 [live]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#23-live
-[studio]:
+[studio]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [iclips]:
 [rock-.os]:
 [our-people]:
