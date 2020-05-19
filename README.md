@@ -10,7 +10,7 @@
 [visually]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#visually
 [live]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#23-live
 [studio]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
-[iclips]:
+[iclips]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [rock-.os]:
 [our-people]:
 [upfront-fee]:
