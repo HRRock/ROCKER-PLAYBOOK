@@ -87,7 +87,7 @@
 
 ## 1.THE COMPANY
 
-Welcome to our Rocker center!
+Welcome to our "Rocker center"!
 
 You probably know this, but I'm saying it again: Rock changes a lot. Fast! All the time! That's what growing things do.
 They change. So, we feel that the content we create about ourselves should do the same.
