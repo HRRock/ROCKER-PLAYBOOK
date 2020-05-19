@@ -82,10 +82,10 @@ Here are a few suggestions on pages I think you'd like to start on. If that's no
 
    ## Who we are
    
+Rock Content is a content marketing company. We are helping other companies to create and introduce a perfect content marketing strategy. Rock Content has been active in the Brazilian market for 6 years. Today the company has more than 1600 customers and 450 employees and is considered the largest content marketing company in Latin America.   
+   
 Basic Overview:
 
-Rock Content is a Saas (software as a service) organization.
-Our clients are other business (B2B) 
 We have multiple products (Ion Interactive, Visually, Live, Studio, iClips and Rock.OS), all aimed at helping our clients to create content experiences that attract, engage, and convert their audiences.
 
 What is content, and why is it important?
