@@ -13,9 +13,7 @@
 [iclips]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [rock-.os]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [our-people]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3-our-people
-[upfront-fee]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#31-meet-the-founders
-[how-to-react-to-an-objection]:
-[meet-the-founders]:
+[meet-the-founders]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#31-meet-the-founders
 [org-chart-&-executives]:
 [teams]:
 [administrative]:
