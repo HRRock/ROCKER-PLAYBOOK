@@ -12,7 +12,7 @@
 [studio]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [iclips]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
 [rock-.os]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#24-studio
-[our-people]:
+[our-people]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3-our-people
 [upfront-fee]:
 [how-to-react-to-an-objection]:
 [meet-the-founders]:
@@ -222,3 +222,23 @@ Visually matched LinkedIn to the correct talent. The Visually platform is where 
   ## 2.6 Rock.OS
 
 ## 3. OUR PEOPLE
+   
+   ## 3.1 Meet the Founders 
+   
+   ## 3.2 Org Chart & Executives
+   
+   ## 3.3 Teams 
+      *     3.3.1 Administrative
+      *     3.3.2 Finance 
+      *     3.3.3 Legal
+      *     3.3.4 Marketing
+      *     3.3.5 Market place 
+      *     3.3.6 OrgDev
+      *     3.3.7 People]
+      *     3.3.8 Product
+      *     3.3.9 Rock.Org
+      *     3.3.10 Sales
+      *     3.3.11 Services
+      *     3.3.12 Support
+      *     3.3.13 Engineering
+      
