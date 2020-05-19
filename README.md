@@ -168,6 +168,7 @@ I hope you enjoyed this text, which was written with the heart and a few hints o
    ## Who do we help
    
 Over 1200 Global Brands: both B2B and B2C markets with a sales focus on Enterprise (over $1B USD) and small-medium business (SMB) markets.
+
 Ion Interactive - Digital teams in multiple verticals, including e-commerce, sales enablement, and marketing
 
 Engage - Mostly media organizations for breaking news and sports coverage, with a growing presence in corporate communications and marketing.
@@ -176,5 +177,8 @@ Visually - Clients from a variety of industries who need content for marketing c
 
    ## What problems do we solve 
    
+   ## Rock Content Facts 
+   
+   ## OUR PRODUCTS
 
 
