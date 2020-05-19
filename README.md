@@ -66,161 +66,6 @@
       *   [Market place][market-place]
       *   [OrgDev][orgdev]
              * **[DataRocks]**
-Also referred to as #dataRocks, this team's mission is to make the endless sea of information that makes up the database of Rock Content's Products and Systems, available for Rockers to use in their daily work.
-
-The team was oficially born on April 2019. Up until that point, each team at Rock had their own operation analysts responsible for both gathering, processing and analyzing the necessary data for the team's controls.
-
-Table documentation
-Project Mapping RC1 - RC2: https://docs.google.com/document/d/1px3kPDDDIitYZOCDup0YJrDNwkFqaujv5LMd6Tz6LqE/edit#
-Content table, all possible idea statuses:https://docs.google.com/document/d/1d87TwxPuJfFnc9TPSwKS_3mIuKmQTx6y2IRJVl2f2S0/edit
-Billing transactions dictionary: https://docs.google.com/document/d/1n09g8AaswK-_VbmqJhiPn4JXAsU-PvmXAmj16Y3FMF4/edit
-Billable info
-
-DataRocks routines are based on Agile practices.
-
-**Routines:**
-Daily Meeting
-Frequency: Every weekday. Mondays are 11 AM. Tue-Fri are 9AM, on a fixed Google Calendar event;
-Duration: ~ 20 minutes.
-
-Objective: Daily updates on ongoing challenges and tasks. Safe space to share news and upcoming changes with the team as soon as possible.
-
-Daily Bot [Deprecated, kept for registry]
-Format: Daily, through the form everyone will fill in:
-
-What I did today;
-What am I going to do tomorrow;
-If there are any obstacles preventing me from performing a task;
-At 8 am the next day, we will be updated with everyone's responses via the ‘Daily Scrum’ bot on the #dataRocks channel in the chat. From there, we will have threads of interactions with the responses.
-
-On Tuesdays and Thursdays we will have the on-site Dailys, for a better alignment of the team regarding the interactions with the responses to the bot threads.
-
-How to make the most out of the Remote Daily:
-
-Set aside 10 quiet minutes, every day, at the end of your workday.
-
-Open this form (Daily Scrum #dataRocks) and write down:
-
-What have I done today?
-What will I do tomorrow?
-Is something holding me back?
-On the next business day, at 8AM, the bot will publish all the entries in the dataRocks chatroom.
-
-What to write?
-
-Your writing form in entirely up to you. You can experiment with broad strokes or granular updates. It all comes down to how do you feel about the work you're writing about.
-
-That's why I'm recommending some 10 minutes to think, instead of 2 minutes to write.
-
-Me and you and everyone else will make mistakes and have bad days.
-
-That's OK!
-
-**Roadmaps**
-All the project's Roadmaps are in the drive.
-
-What is a roadmap?
-
-A high level plan, defining a comprehensive strategic objective and capturing the main steps planned to achieve that objective.
-
-A list of resources alone will not capture or articulate the strategic thinking behind building a product in a specific way. Creating a valid product roadmap requires telling a cohesive story - showing how all individual initiatives, features and tasks will come together and result in a product that meets specific company goals.
-
-A communication tool that helps to communicate the product strategy.
-
-What does a resource list communicate? In addition to the items on the list, not much. That's why a solid product roadmap requires clear and concise strategic logic to include any resource or epic. If a product manager cannot convincingly establish the inclusion of a feature, he should not include it.
-
-**Format:**
-Roadmaps are organized into subtitles, each with its function described below.
-
-**Vision:**
-The purpose of the Vision is to generate alignment on the motivation of any part of the project that is being worked on. It should provide enough context for those involved to know the reason and impact of that Roadmap. Thus, it is composed of the current situation and the problems that are experienced in it, and also of the ideal world where these problems are solved and how people's lives are better because of this. It is a story telling tool, which connects technical work at the tip of #dataRocks with the needs and objectives of Rock Content.
-
-**Strategy**
-In strategy, we explore the path between the world as it is, and how it could be. What are - in a broad way - the resources we have at hand to close the bridge? More practical descriptions, without technical deepening, of the technologies, tools and processes that will be used to carry out the project.
-
-**Goal**
-Goals are milestones of progress that help us understand that we are on the right track. They must be incremental, built on the achievement of the other. They need a date and a clear metric that determines the success of the execution.
-
-**Initiatives**
-Each initiative is one of the parts that make up a Project. They can be palpable structures, such as dashboards, or technical resources such as tables, ETLs and scripts. Initiatives can be carried out in parallel, if there is no technical dependence on each other. In a Gantt chart, each initiative is a streak of the project.
-
-**Features**
-Each feature is a user's need. It is something that he needs to do to reach a specific result. A feature tells you what will be done, how it will be done and the expected result of taking this action.
-
-User stories are always written in the first person and the narrator defines who the final audience for that resource is. Model we use:
-
-I, as such a function, need such a resource to accomplish that goal.
-
-**Metrics**
-Ideally, the success of the work is anchored in facts that can be measured without the need for subjective interpretation. In cases where it is not possible, due to problems with instrumentation or the nature of the work, it is acceptable to use discrete conditions such as commits, publications and accepted by email. Subjective conditions should be avoided as much as possible.
-
-**Business Requirement and Definitions**
-Where there are business definitions, constraints, relevant legislation and other technical requirements, these must be clearly broken down. An application can be renegotiated if necessary, but never ignored.
-
-**User Stories breakdown**
-The breaking of stories tells, in plain text, how the user's goal is expected to be accomplished. Different objectives will need the appropriate level of detail so that the whole process is clearly understood. The detail includes technical details, queries, pieces of code and documentation. The objective is to align the way of working with the team and there is no need for interference or understanding by the end user of the process.
-
-**Task Information** 
-According to the complexity described in the details of the History, a specific multiple of tasks will be generated for its execution.
-
-Each task should be the smallest possible block to track and detail in Asana, but it can contain sub-tasks for internal milestones, check-ups and follow-ups.
-
-Although the sub-tasks may be other owners, it is the task assignee who is responsible for making sure its completion
-
-**Workflow Taiga**
-Since April 2020, we have killed of Asana in favour of Taiga. A project management software hosted on taiga.rockcontent.com
-
-**Team Communication**
-Chat room to inform and discuss the Metabase, activities and routines of the Dailys project and bot with the members: #dataRocks
-
-Chat room to inform and discuss the implementation and use of Metabase in content: [CONTENT] #dataRocks
-
-Chat room to inform and discuss the Metabase, activities and routines of the Dailys project and bot with the members: #dataRocks
-Chat room to inform and discuss the implementation and use of Metabase in content: [CONTENT] #dataRocks
-Recurring questions from Metabase users:
-Each one must fill in whenever they encounter a user who has a recurring question. If they realize that a question is already in the spreadsheet and has already been disclosed, whoever faced the question again should forward the solution to the user.
-
-Metabase Newsletter - Data update
-Newsletter sent every two weeks to users (teams in which Metabase implementation has already been or is underway) with information on updating Metabase, tips on using the platform and monitoring the #dataRocks project. Written by Danielle, validated by Nina, Fafá and Wesley.
-
-Use Metabase success stories
-The “Use Metabase cases” thread should be used when faced with successful cases in using Metabase. They can without prints, links or a quick note telling a little about what the user has done and any other information they deem pertinent. Danielle discloses these successful use cases in the newsletter.
-
-I want data - orders for the OrgDev team
-Form by which users must request data from the OrgDev team or to report any bug / problem linked to data and / or our data tools (Metabase and Hubspot).
-
-The answers are verified by Nina and, when prioritized, the demands are included in the Sprint and passed on to the person in charge.
-
-**Documents & Resources**
-RC1 and Studio: Behind the scenes
-Awesome presentation on RC1 and Rock Studio's database and philosophy, made by Felipe Machado.
-
-Slidedeck, with examples and code: https://docs.google.com/presentation/d/1Awtlac4TYEdPtni3OAWToqw5pcQoriQjRxq7u19yF60/
-Video recording: - to be inserted -
-[PENDING LINKS BELOW]
-
-* Roadmaps
-* ChangeLog Metabase
-* Recurring questions from Metabase users
-* I want data form - Orders for the OrgDev team
-* Metabase Documentation Worksheet
-* Picture #dataRocks Asana
-* Picture External Demands Asana
-
-Retros #dataRocks
-
-Demo metabase user 
-This user's goal is to leave it configured as “default” so that we can do tests and validations.
-
-Login: fabiano+demo@rockcontent.com
-
-Password: orgdev123
-
-Use the “Sign in with email” option instead of “Sign in with google!”
-
-Documentation
-
-DataRocks is part of RockOS.
              * **[Business Analytics]**
              * **[Strategic Operations]**
       *   [People][people]
@@ -453,15 +298,170 @@ We've got your back: here are the documents:
 Reports:
 Reports developed by the OrgDev team:
 Marketing Metrics
-  
-   ## 3.3.7 People
-   ## 3.3.8 Product
-   ## 3.3.9 Rock.Org
-   ## 3.3.10 Sales
+      * **DataRocks** 
+Also referred to as #dataRocks, this team's mission is to make the endless sea of information that makes up the database of Rock Content's Products and Systems, available for Rockers to use in their daily work.
+
+The team was oficially born on April 2019. Up until that point, each team at Rock had their own operation analysts responsible for both gathering, processing and analyzing the necessary data for the team's controls.
+
+Table documentation
+Project Mapping RC1 - RC2: https://docs.google.com/document/d/1px3kPDDDIitYZOCDup0YJrDNwkFqaujv5LMd6Tz6LqE/edit#
+Content table, all possible idea statuses:https://docs.google.com/document/d/1d87TwxPuJfFnc9TPSwKS_3mIuKmQTx6y2IRJVl2f2S0/edit
+Billing transactions dictionary: https://docs.google.com/document/d/1n09g8AaswK-_VbmqJhiPn4JXAsU-PvmXAmj16Y3FMF4/edit
+Billable info
+
+DataRocks routines are based on Agile practices.
+
+**Routines:**
+Daily Meeting
+Frequency: Every weekday. Mondays are 11 AM. Tue-Fri are 9AM, on a fixed Google Calendar event;
+Duration: ~ 20 minutes.
+
+Objective: Daily updates on ongoing challenges and tasks. Safe space to share news and upcoming changes with the team as soon as possible.
+
+Daily Bot [Deprecated, kept for registry]
+Format: Daily, through the form everyone will fill in:
+
+What I did today;
+What am I going to do tomorrow;
+If there are any obstacles preventing me from performing a task;
+At 8 am the next day, we will be updated with everyone's responses via the ‘Daily Scrum’ bot on the #dataRocks channel in the chat. From there, we will have threads of interactions with the responses.
+
+On Tuesdays and Thursdays we will have the on-site Dailys, for a better alignment of the team regarding the interactions with the responses to the bot threads.
+
+How to make the most out of the Remote Daily:
+
+Set aside 10 quiet minutes, every day, at the end of your workday.
+
+Open this form (Daily Scrum #dataRocks) and write down:
+
+What have I done today?
+What will I do tomorrow?
+Is something holding me back?
+On the next business day, at 8AM, the bot will publish all the entries in the dataRocks chatroom.
+
+What to write?
+
+Your writing form in entirely up to you. You can experiment with broad strokes or granular updates. It all comes down to how do you feel about the work you're writing about.
+
+That's why I'm recommending some 10 minutes to think, instead of 2 minutes to write.
+
+Me and you and everyone else will make mistakes and have bad days.
+
+That's OK!
+
+**Roadmaps**
+All the project's Roadmaps are in the drive.
+
+What is a roadmap?
+
+A high level plan, defining a comprehensive strategic objective and capturing the main steps planned to achieve that objective.
+
+A list of resources alone will not capture or articulate the strategic thinking behind building a product in a specific way. Creating a valid product roadmap requires telling a cohesive story - showing how all individual initiatives, features and tasks will come together and result in a product that meets specific company goals.
+
+A communication tool that helps to communicate the product strategy.
+
+What does a resource list communicate? In addition to the items on the list, not much. That's why a solid product roadmap requires clear and concise strategic logic to include any resource or epic. If a product manager cannot convincingly establish the inclusion of a feature, he should not include it.
+
+**Format:**
+Roadmaps are organized into subtitles, each with its function described below.
+
+**Vision:**
+The purpose of the Vision is to generate alignment on the motivation of any part of the project that is being worked on. It should provide enough context for those involved to know the reason and impact of that Roadmap. Thus, it is composed of the current situation and the problems that are experienced in it, and also of the ideal world where these problems are solved and how people's lives are better because of this. It is a story telling tool, which connects technical work at the tip of #dataRocks with the needs and objectives of Rock Content.
+
+**Strategy**
+In strategy, we explore the path between the world as it is, and how it could be. What are - in a broad way - the resources we have at hand to close the bridge? More practical descriptions, without technical deepening, of the technologies, tools and processes that will be used to carry out the project.
+
+**Goal**
+Goals are milestones of progress that help us understand that we are on the right track. They must be incremental, built on the achievement of the other. They need a date and a clear metric that determines the success of the execution.
+
+**Initiatives**
+Each initiative is one of the parts that make up a Project. They can be palpable structures, such as dashboards, or technical resources such as tables, ETLs and scripts. Initiatives can be carried out in parallel, if there is no technical dependence on each other. In a Gantt chart, each initiative is a streak of the project.
+
+**Features**
+Each feature is a user's need. It is something that he needs to do to reach a specific result. A feature tells you what will be done, how it will be done and the expected result of taking this action.
+
+User stories are always written in the first person and the narrator defines who the final audience for that resource is. Model we use:
+
+I, as such a function, need such a resource to accomplish that goal.
+
+**Metrics**
+Ideally, the success of the work is anchored in facts that can be measured without the need for subjective interpretation. In cases where it is not possible, due to problems with instrumentation or the nature of the work, it is acceptable to use discrete conditions such as commits, publications and accepted by email. Subjective conditions should be avoided as much as possible.
+
+**Business Requirement and Definitions**
+Where there are business definitions, constraints, relevant legislation and other technical requirements, these must be clearly broken down. An application can be renegotiated if necessary, but never ignored.
+
+**User Stories breakdown**
+The breaking of stories tells, in plain text, how the user's goal is expected to be accomplished. Different objectives will need the appropriate level of detail so that the whole process is clearly understood. The detail includes technical details, queries, pieces of code and documentation. The objective is to align the way of working with the team and there is no need for interference or understanding by the end user of the process.
+
+**Task Information** 
+According to the complexity described in the details of the History, a specific multiple of tasks will be generated for its execution.
+
+Each task should be the smallest possible block to track and detail in Asana, but it can contain sub-tasks for internal milestones, check-ups and follow-ups.
+
+Although the sub-tasks may be other owners, it is the task assignee who is responsible for making sure its completion
+
+**Workflow Taiga**
+Since April 2020, we have killed of Asana in favour of Taiga. A project management software hosted on taiga.rockcontent.com
+
+**Team Communication**
+Chat room to inform and discuss the Metabase, activities and routines of the Dailys project and bot with the members: #dataRocks
+
+Chat room to inform and discuss the implementation and use of Metabase in content: [CONTENT] #dataRocks
+
+Chat room to inform and discuss the Metabase, activities and routines of the Dailys project and bot with the members: #dataRocks
+Chat room to inform and discuss the implementation and use of Metabase in content: [CONTENT] #dataRocks
+Recurring questions from Metabase users:
+Each one must fill in whenever they encounter a user who has a recurring question. If they realize that a question is already in the spreadsheet and has already been disclosed, whoever faced the question again should forward the solution to the user.
+
+Metabase Newsletter - Data update
+Newsletter sent every two weeks to users (teams in which Metabase implementation has already been or is underway) with information on updating Metabase, tips on using the platform and monitoring the #dataRocks project. Written by Danielle, validated by Nina, Fafá and Wesley.
+
+Use Metabase success stories
+The “Use Metabase cases” thread should be used when faced with successful cases in using Metabase. They can without prints, links or a quick note telling a little about what the user has done and any other information they deem pertinent. Danielle discloses these successful use cases in the newsletter.
+
+I want data - orders for the OrgDev team
+Form by which users must request data from the OrgDev team or to report any bug / problem linked to data and / or our data tools (Metabase and Hubspot).
+
+The answers are verified by Nina and, when prioritized, the demands are included in the Sprint and passed on to the person in charge.
+
+**Documents & Resources**
+RC1 and Studio: Behind the scenes
+Awesome presentation on RC1 and Rock Studio's database and philosophy, made by Felipe Machado.
+
+Slidedeck, with examples and code: https://docs.google.com/presentation/d/1Awtlac4TYEdPtni3OAWToqw5pcQoriQjRxq7u19yF60/
+Video recording: - to be inserted -
+[PENDING LINKS BELOW]
+
+* Roadmaps
+* ChangeLog Metabase
+* Recurring questions from Metabase users
+* I want data form - Orders for the OrgDev team
+* Metabase Documentation Worksheet
+* Picture #dataRocks Asana
+* Picture External Demands Asana
+
+Retros #dataRocks
+
+Demo metabase user 
+This user's goal is to leave it configured as “default” so that we can do tests and validations.
+
+Login: fabiano+demo@rockcontent.com
+
+Password: orgdev123
+
+Use the “Sign in with email” option instead of “Sign in with google!”
+
+Documentation
+
+DataRocks is part of RockOS
+   ## People
+   ## Product
+   ## Rock.Org
+   ## Sales
 [Sales-Playbook]
    
-   ## 3.3.11 Services
-   ## 3.3.12 Support
-   ## 3.3.13 Engineering
+   ## Services
+   ## Support
+   ## Engineering
       
 ## 4.RESOURCES
