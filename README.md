@@ -21,7 +21,7 @@
 [legal]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#legal
 [marketing]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#marketing
 [market-place]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#market-place
-[orgdev]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#336-orgdev
+[orgdev]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#orgdev
 [people]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#337-people
 [product]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#338-product
 [rock.org]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#339-rockorg
