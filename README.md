@@ -22,7 +22,12 @@
 [marketing]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#334-marketing
 [market-place]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#335-market-place
 [orgdev]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#336-orgdev
-[people]:
+[people]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#337-people
+[rock.org]:
+[sales]:
+[services]:
+[support]:
+[engineering]:
 [resources]: 
 
 # ROCKER PLAYBOOK 
