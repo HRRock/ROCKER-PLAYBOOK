@@ -62,9 +62,9 @@
       *   [Marketing][marketing]
       *   [Market place][market-place]
       *   [OrgDev][orgdev]
-         * **[DataRocks]**
-         * **[Business Analytics]**
-         * **[Strategic Operations]**
+             * **[DataRocks]**
+             * **[Business Analytics]**
+             * **[Strategic Operations]**
       *   [People][people]
       *   [Product][product]
       *   [Rock.Org][rock.org]
