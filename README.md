@@ -16,7 +16,7 @@
 [meet-the-founders]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#31-meet-the-founders
 [org-chart-&-executives]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#32-org-chart--executives
 [teams]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#33-teams
-[administrative]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#331-administrative
+[administrative]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#administrative
 [finance]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#332-finance
 [legal]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#333-legal
 [marketing]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#334-marketing
