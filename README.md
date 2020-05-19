@@ -59,7 +59,7 @@
 * [4.RESOURCES][resources]
 
 
-## OUR PURPOSE
+## THE COMPANY
 
 Welcome to our Rocker center!
 
