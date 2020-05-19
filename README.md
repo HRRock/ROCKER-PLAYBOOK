@@ -42,6 +42,7 @@
   *   [ 1.4 Who do we help][who-do-we-help]
   *   [ 1.5 What problem do we solve][what-problem-do-we-solve]
   *   [ 1.6 Rock Content Facts][rock-content-facts]
+
 * [2.OUR PRODUCTS][our-products]  
   *   [ 2.1 ION][ion]
   *   [ 2.2 Visually][visually]
@@ -49,6 +50,7 @@
   *   [ 2.4 Studio][studio]
   *   [ 2.5 iClips][iclips]
   *   [ 2.6 Rock.OS][rock-.os]
+
 * [3.OUR PEOPLE][our-people] 
   *   [ 3.1 Meet the foundres][meet-the-founders]
   *   [ 3.2 Org Chart & Executives][org-chart-&-executives]
@@ -66,6 +68,7 @@
       *   [ 3.3.11 Services][services]
       *   [ 3.3.12 Support][support]
       *   [ 3.3.13 Engineering][engineering]      
+
 * [4.RESOURCES][resources]
 
 
