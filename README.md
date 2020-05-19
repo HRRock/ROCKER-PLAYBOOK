@@ -72,3 +72,19 @@ Here almost every page is fully editable. And you, fellow Rocker, are already an
 Here are a few suggestions on pages I think you'd like to start on. If that's not your thing, that's cool! Just hit the search bar and take a look around. Didn't find what you needed? Why not start your own page? Just click here to get started.
 
    ## Who we are
+   
+Basic Overview:
+Rock Content is a Saas (software as a service) organization.
+Our clients are other business (B2B) 
+We have multiple products (Ion Interactive, Visually, Live, Studio, iClips and Rock.OS), all aimed at helping our clients to create content experiences that attract, engage, and convert their audiences.
+
+What is content, and why is it important?
+Content is important because it gets our attention. We all interact with content regularly: we find interesting articles on Facebook or Twitter, we receive email newsletters, we watch how-to videos on YouTube, we read news articles, we attend online webinars. All of these are examples of content...produced ultimately for one purpose: to get your attention.
+
+Why is your attention so important? Because your attention may eventually convert to $. And dollars keep businesses alive.
+
+How does attention lead to $?  The more targeted visitors an organization can attract, the greater the likelihood that many of those visitors will become paying customers. For brands, this means that a product or service may be purchased. For media organizations, subscriptions may be purchased to supplement the ad revenue they get from having lots of viewers. 
+
+It's increasingly important for businesses to have a content strategy - a plan for attracting and converting viewers with content.
+
+Just as there are many different types of content, our products help with content in a variety of ways.
