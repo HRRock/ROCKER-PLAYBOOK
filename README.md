@@ -29,7 +29,8 @@
 [services]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3311-services
 [support]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3312-support
 [engineering]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3310-sales
-[resources]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3310-sales 
+[resources]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3310-sales
+[sales-playbook]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#sales-playbook
 
 # ROCKER PLAYBOOK 
 
@@ -296,7 +297,7 @@ Marketing Metrics
    ## 3.3.8 Product
    ## 3.3.9 Rock.Org
    ## 3.3.10 Sales
-[sales-playbook]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#sales-playbook
+[sales-playbook]
    
    ## 3.3.11 Services
    ## 3.3.12 Support
