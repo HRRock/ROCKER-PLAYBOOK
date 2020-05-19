@@ -212,13 +212,11 @@ LinkedIn wanted to create a video to communicate the results of a survey and pro
 https://get.visual.ly/m/design-portfolio/job-seeker-trend-report-linkedin/ 
 
 Visually matched LinkedIn to the correct talent. The Visually platform is where all of the collaboration happened. The video is the result.
-
-  ## 2.3 Visually
   
-  ## 2.4 Live
+  ## 2.3 Live
   
-  ## 2.3 Studio
+  ## 2.4 Studio
   
-  ## 2.4 iClips
+  ## 2.5 iClips
   
-  ## 2.5 Rock.OS
+  ## 2.6 Rock.OS
