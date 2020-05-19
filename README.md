@@ -1,5 +1,5 @@
 [our-purpose]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#our-purpose
-[who-we-are]:
+[who-we-are]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#who-we-are
 [our-history]:
 [our-values]:
 [who-do-we-help]:
