@@ -29,7 +29,7 @@
 [services]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3311-services
 [support]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3312-support
 [engineering]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3310-sales
-[resources]: 
+[resources]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3310-sales 
 
 # ROCKER PLAYBOOK 
 
@@ -65,9 +65,7 @@
       *   [ 3.3.10 Sales][sales]
       *   [ 3.3.11 Services][services]
       *   [ 3.3.12 Support][support]
-      *   [ 3.3.13 Engineering][engineering]
-      
-      
+      *   [ 3.3.13 Engineering][engineering]      
 * [4.RESOURCES][resources]
 
 
