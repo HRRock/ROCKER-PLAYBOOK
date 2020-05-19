@@ -258,12 +258,12 @@ OrgDev Mission:
 Our mission is to create and reinforce a data-driven culture at Rock to empower Rockers to make the best decisions for our customers.
 
 The five pillars of a Data Drive culture are:
-.Single source of truth
-.Data Governance
-.Data Concepts
-.Data Literacy
-.Data Decisions
-.OrgDev Routines
+* **Single source of truth**
+* **Data Governance**
+* **Data Concepts**
+* **Data Literacy**
+* **Data Decisions**
+* **OrgDev Routines**
 
 OrgDev routine rituals are super funny
 Rituals:
@@ -284,9 +284,9 @@ Metabase is a cool piece of software, and you can read all about it it it's own 
 
 We've got your back: here are the documents:
 
-## Metabase: is inside metabase. CSAT from Hubspot?
-## RockOS
-## Business Definitions: MGU
+* **Metabase: is inside metabase. CSAT from Hubspot?**
+* **RockOS**
+* **Business Definitions: MGU**
 
 Reports:
 Reports developed by the OrgDev team:
