@@ -189,3 +189,14 @@ Every buyer touchpoint is an opportunity for insight and understanding, and ion 
 
 ion interactive empowers organizations to engage, target, and convert higher quality leads using a code-free, data-driven solution.
 
+   ## Visually
+   
+Visually's mission is to help businesses create visual content that rises above the noise.
+Our platform connects designers, journalists, animators and developers with clients. Visually features cloud-based collaboration tools that allow us to deliver high-quality content at unprecedented scale and speed.
+
+Example:
+LinkedIn wanted to create a video to communicate the results of a survey and promote their 'Talent Solutions' products. This was a top of the funnel piece of content that drove Recruiters to a page where they could register to download a report. 
+
+https://get.visual.ly/m/design-portfolio/job-seeker-trend-report-linkedin/ 
+
+Visually matched LinkedIn to the correct talent. The Visually platform is where all of the collaboration happened. The video is the result.
