@@ -1,7 +1,30 @@
-
-
-
-
+[our-purpose]:
+[who-we-are]:
+[our-history]:
+[our-values]:
+[who-do-we-help]:
+[what-problem-do-we-solve]:
+[our-products]:
+[ion]:
+[visually]:
+[live]:
+[studio]:
+[iclips]:
+[rock-.os]:
+[our-people]:
+[upfront-fee]:
+[how-to-react-to-an-objection]:
+[meet-the-founders]:
+[org-chart-&-executives]:
+[teams]:
+[administrative]:
+[finance]:
+[legal]:
+[marketing]:
+[market-place]:
+[orgdev]:
+[people]:
+[resources]
 
 # ROCKER-PLAYBOOK
 
@@ -30,6 +53,6 @@
       *   [ 3.3.4 Marketing][marketing]
       *   [ 3.3.5 Market place][market-place]
       *   [ 3.3.6 OrgDev][orgdev]
-      *   [ 3.3.7 People][people
+      *   [ 3.3.7 People][people]
       
 * [4.RESOURCES][resources]
