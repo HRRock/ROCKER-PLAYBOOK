@@ -25,7 +25,7 @@
 [people]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#337-people
 [product]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#338-product
 [rock.org]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#339-rockorg
-[sales]:
+[sales]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3310-sales
 [services]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3311-services
 [support]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3312-support
 [engineering]:
