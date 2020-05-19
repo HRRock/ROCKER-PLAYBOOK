@@ -249,11 +249,11 @@ Since Fabiano is currently messing around with the teams and moderator_teams, we
 
 Right now, OrgDev is trying to keep sharp focus on 2020. There is a list of priorities for the team in 2020 already out.
 Contents
-  ## 1	OrgDev Mission
-  ## 2	OrgDev Routines
-  ## 3	Cerimônias
-  ## 4	Metabase Documentation
-  ## 5	Reports
+  **1	OrgDev Mission**
+  **2	OrgDev Routines**
+  **3	Cerimônias**
+  **4	Metabase Documentation**
+  **5	Reports**
 
 OrgDev Mission: 
 Our mission is to create and reinforce a data-driven culture at Rock to empower Rockers to make the best decisions for our customers.
