@@ -228,17 +228,17 @@ Visually matched LinkedIn to the correct talent. The Visually platform is where 
    ## 3.2 Org Chart & Executives
    
    ## 3.3 Teams 
-      *     3.3.1 Administrative
-      *     3.3.2 Finance 
-      *     3.3.3 Legal
-      *     3.3.4 Marketing
-      *     3.3.5 Market place 
-      *     3.3.6 OrgDev
-      *     3.3.7 People]
-      *     3.3.8 Product
-      *     3.3.9 Rock.Org
-      *     3.3.10 Sales
-      *     3.3.11 Services
-      *     3.3.12 Support
-      *     3.3.13 Engineering
+   3.3.1 Administrative
+   3.3.2 Finance 
+   3.3.3 Legal
+   3.3.4 Marketing
+   3.3.5 Market place 
+   3.3.6 OrgDev
+   3.3.7 People
+   3.3.8 Product
+   3.3.9 Rock.Org
+   3.3.10 Sales
+   3.3.11 Services
+   3.3.12 Support
+   3.3.13 Engineering
       
