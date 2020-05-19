@@ -239,6 +239,65 @@ Visually matched LinkedIn to the correct talent. The Visually platform is where 
    ## 3.3.4 Marketing
    ## 3.3.5 Market place 
    ## 3.3.6 OrgDev
+   
+OrgDev is a super nice team!
+
+They support Rock Content through the use of data and analysis.
+
+A small part of the work is maintaining our databases clean, usable and true to the facts. Whenever something gets changed in the database, we document it in some easy to follow documents.
+
+The table plan_histories, in RC1, is documented in HammerTime.
+
+Since Fabiano is currently messing around with the teams and moderator_teams, we do have a separate document for them as well: CS teams at RC1.
+
+Right now, OrgDev is trying to keep sharp focus on 2020. There is a list of priorities for the team in 2020 already out.
+
+Contents
+1	OrgDev Mission
+2	OrgDev Routines
+3	Cerimônias
+4	Metabase Documentation
+5	Reports
+
+OrgDev Mission: 
+Our mission is to create and reinforce a data-driven culture at Rock to empower Rockers to make the best decisions for our customers.
+
+The five pillars of a Data Drive culture are:
+Single source of truth
+Data Governance
+Data Concepts
+Data Literacy
+Data Decisions
+OrgDev Routines
+
+As rotinas de OrgDev são super divertidas: 
+Cerimônias
+Reuniões de frequência, duração, objetivos e formato definidos, adequadas à metodologia agile.
+
+Home office: Formalizar lembrete de reuniões com 5min. Quem estiver de home office deve enviar uma mensagem na sala #dataRocks 5min antes do início das reuniões para lembrar que irá participar via Hangout.
+
+Daily
+
+Frequência: Diariamente às 10:30, exceto nas segundas-feiras e dias de Retro. Duração: até 5 min Objetivo: Entendimento da equipe sobre o trabalho que cada um está executando. Visualizar se há alguma oportunidade para ajudar os outros membros da equipe a superar obstáculos. Formato: Um a um, cada membro da equipe tem 30 segundos para dizer: O que eu fiz desde a última daily; O que eu vou fazer até a próxima daily; Se existe algum obstáculo me impedindo de executar alguma tarefa; Participantes: Todos os membros do projeto, exceto a Nina.
+
+Sprint Review + Sprint Planning
+
+Frequência: Semanal. Segundas-feiras às 14h. Duração: 1h Objetivo: Review: Marca o fim do Sprint. Apresentar o que foi feito no último sprint. Planning: Marca o início do Sprint. Definição e validação das tarefas que serão executadas naquele Sprint. Formato: Passamos pelas atividades de cada membro do projeto, tanto na review quanto na planning. Durante a reunião, atualizamos o quadro #dataRocks no Asana. Participantes: Todos os membros do projeto
+
+Metabase Documentation: 
+Metabase is a cool piece of software, and you can read all about it it it's own page.
+
+We've got your back: here are the documents:
+
+Metabase: is inside metabase. CSAT from Hubspot?
+RockOS
+Business Definitions: MGU
+
+Reports:
+Reports developed by the OrgDev team:
+
+Marketing Metrics
+  
    ## 3.3.7 People
    ## 3.3.8 Product
    ## 3.3.9 Rock.Org
