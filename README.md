@@ -88,3 +88,9 @@ How does attention lead to $?  The more targeted visitors an organization can at
 It's increasingly important for businesses to have a content strategy - a plan for attracting and converting viewers with content.
 
 Just as there are many different types of content, our products help with content in a variety of ways.
+
+   ## Our History 
+   
+The company started operating on May 5, 2013 and was founded by 3 partners: Edmar Ferreira, Diego Gomes, and Vitor Peçanha in Belo Horizonte- BRA, in the so-called San Pedro Valley. It was born with the aim of changing the reality of companies' digital strategies by producing content and devising strategies to generate more online visibility for their customers.
+
+What started as a back-of-the-napkin business idea in 2013 would become the largest content marketing solution and service provider in Latin America. With the acquisition of ScribbleLive, Rock Content is now a global enterprise with over 500 employees, six offices, and 2,000 customers. Together, we all share in Rock’s mission to create growth opportunities for our customers, talent community, and Rockers worldwide.   
