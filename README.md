@@ -1,4 +1,11 @@
+
+
+
+
+
 # ROCKER-PLAYBOOK
+
+## Table of Contents
 * [1.OUR PURPOSE][our-purpose] 
   *   [ 1.1 Who we are][who-we-are]
   *   [ 1.2 Our History][our-history]
@@ -25,4 +32,4 @@
       *   [ 3.3.6 OrgDev][orgdev]
       *   [ 3.3.7 People][people
       
-* [3.RESOURCES][resources]
+* [4.RESOURCES][resources]
