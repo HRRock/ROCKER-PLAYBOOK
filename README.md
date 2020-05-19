@@ -1,4 +1,4 @@
-[our-purpose]:
+[our-purpose]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#our-purpose
 [who-we-are]:
 [our-history]:
 [our-values]:
@@ -59,6 +59,7 @@
 
 
 ## OUR PURPOSE
+
 Welcome to our Rocker center!
 
 You probably know this, but I'm saying it again: Rock changes a lot. Fast! All the time! That's what growing things do.
