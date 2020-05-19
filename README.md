@@ -30,9 +30,6 @@
 [support]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3312-support
 [engineering]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3310-sales
 [resources]:https://github.com/HRRock/ROCKER-PLAYBOOK/blob/master/README.md#3310-sales
-[Data-Rocks]
-[Business-Analytics]
-[Strategic-Operations]
 [sales-playbook]:https://github.com/HRRock/Sales-playbook/blob/master/README.md#sales-playbook
 
 # ROCKER PLAYBOOK 
