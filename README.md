@@ -190,6 +190,7 @@ Visually - Clients from a variety of industries who need content for marketing c
    ## What problems do we solve 
    
    ## Rock Content Facts 
+   https://www.forbes.com/sites/angelicamarideoliveira/2019/12/10/exclusive-brazils-rock-content-acquires-scribble-live/#1f5896d3deda
    
 ## OUR PRODUCTS
    ## ION Interactive 
