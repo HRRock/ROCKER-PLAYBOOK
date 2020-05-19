@@ -26,7 +26,7 @@
 [people]:
 [resources]:
 
-# ROCKER-PLAYBOOK
+# ROCKER-PLAYBOOK !
 
 ## Table of Contents
 * [1.OUR PURPOSE][our-purpose] 
