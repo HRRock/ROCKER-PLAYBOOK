@@ -83,6 +83,7 @@ Here are a few suggestions on pages I think you'd like to start on. If that's no
    ## Who we are
    
 Basic Overview:
+
 Rock Content is a Saas (software as a service) organization.
 Our clients are other business (B2B) 
 We have multiple products (Ion Interactive, Visually, Live, Studio, iClips and Rock.OS), all aimed at helping our clients to create content experiences that attract, engage, and convert their audiences.
@@ -97,6 +98,8 @@ How does attention lead to $?  The more targeted visitors an organization can at
 It's increasingly important for businesses to have a content strategy - a plan for attracting and converting viewers with content.
 
 Just as there are many different types of content, our products help with content in a variety of ways.
+
+https://pt.slideshare.net/rockcontent/culture-code-rock-content
 
    ## Our History 
    
